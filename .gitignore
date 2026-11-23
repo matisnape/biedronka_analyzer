@@ -1,0 +1,13 @@
+# Personal receipt data never leaves this machine. The GitHub repo is public.
+data/
+*.pdf
+*.json.bak
+
+# Python / uv
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# OS
+.DS_Store
