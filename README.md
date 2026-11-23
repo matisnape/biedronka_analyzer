@@ -1,4 +1,4 @@
-# biedronka_analyzer
+# biedronka-analyzer
 
 Track how the prices of the products you buy at Biedronka change over time.
 

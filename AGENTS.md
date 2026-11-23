@@ -1,4 +1,4 @@
-# Agent guide: biedronka_analyzer
+# Agent guide: biedronka-analyzer
 
 ## TL;DR
 
